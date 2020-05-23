@@ -13,6 +13,7 @@ Week 7: unusual ear
 Week 8: Thomas Hartmann
   1. Brug listen af urler til at hente nogle af de populæreste Sherlock Holmes bøger
   2. Brug regex til at finde alle afsnit der indeholder £ tegn, samt det fulde beløb der nævne
+  
   3a. Hvor mange gange nævnes konkrete beløber i £?
   3b. Udskriv hele det afsnit hvor det højeste £ beløb nævnes
 
