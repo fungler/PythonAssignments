@@ -14,3 +14,10 @@ Week 8: Thomas Hartmann
   3a. Hvor mange gange nævnes konkrete beløber i £?
   
   3b. Udskriv hele det afsnit hvor det højeste £ beløb nævnes
+
+Week 9: happy county
+  1. Use regex on the data to get every different ip - save the ip’s in a list.
+  2. Use selenium(or hint) to paste an ip from the list to: https://www.whois.com/whois/ and get NetName, NetRange, OrgName, Address, City, StateProv, PostalCode Country, RegDate.
+  3. 3. Store some of the data in a database with PyMySQL and create a flask server with a GET endpoint to show all the data stored in the DB. (Optionally deploy flask server on your droplet)
+  
+  Note: Jeg forsøgte meget at få MYSQL delen til at fungerer, men stødte ind i 1000 problemer. Jeg gik videre og lavede et simple flask endpoint til at vise functionaliteten.
