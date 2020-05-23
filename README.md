@@ -8,7 +8,7 @@ Week 7: unusual ear
   
   Note: Copenhagen Wolfs var ikke længere på listen over "Ranking" i opgave 2. Derfor har jeg søgt efter dem i søgefeltet og løst resten af opgaven på den måde.
  
-Week 7: Thomas Hartmann
+Week 8: Thomas Hartmann
   1. Brug listen af urler til at hente nogle af de populæreste Sherlock Holmes bøger
   2. Brug regex til at finde alle afsnit der indeholder £ tegn, samt det fulde beløb der nævnes
   3a. Hvor mange gange nævnes konkrete beløber i £?
