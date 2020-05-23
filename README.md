@@ -1,6 +1,8 @@
 # PythonAssignments
 Individuel python afleveringer. Nogle opgaver er lavet som gruppe, hvor andre er lavet individuelt.
 
+
+
 Week 7: unusual ear
   1. Brug web scraping til at finde top 5 hold i verden	
   2. Brug selenium til at finde "Copenhagen Flames" placering på verdensranglisten (Ranking)	
